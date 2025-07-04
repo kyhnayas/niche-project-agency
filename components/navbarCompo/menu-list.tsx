@@ -32,13 +32,7 @@ const menuItems: MenuItemProps[] = [
   {
     title: 'Projeler',
     url: '/portfolio-agency/case-study',
-    items: [
-      { title: 'Tüm Projeler', url: '/portfolio-agency/case-study' },
-      { title: 'Web Tasarım', url: '/portfolio-agency/web-design' },
-      { title: 'Marka Tasarımı', url: '/portfolio-agency/brand-design' },
-      { title: 'Sosyal Medya', url: '/portfolio-agency/social-media' },
-      { title: 'SEO', url: '/portfolio-agency/seo' },
-    ],
+    
   },
 ]
 
