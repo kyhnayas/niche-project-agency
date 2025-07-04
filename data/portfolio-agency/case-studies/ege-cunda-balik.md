@@ -6,30 +6,14 @@ coverImage: '/images/project-3/ege-cunda/ege-cunda.png'
 badge: 'Project case study'
 ---
 
-### Learn about the project - project overview
+### Proje genel bakışı
 
-Introducing our latest creation: the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to a user-friendly interface.
+İstanbul'un gözde lokasyonlarından Kartal İstMarina AVM'nin bahçe katında konumlanan Ege Cunda Balık için kapsamlı bir mekan projesi hayata geçirdik. Müşterimizin vizyonu doğrultusunda, misafirlerine Ege'nin sıcak ve davetkar ruhunu yansıtan, benzersiz bir atmosfer sunacak bir balık restoranı tasarlamayı hedefledik. Projemiz, konsept oluşturmadan anahtar teslime kadar 45 günlük yoğun bir takvimde başarıyla tamamlanmıştır.
 
-Introducing our latest creation: the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+### Yapılan işler
 
-### Designing the User Experience
+Bu projede, mekanın kimliğini oluşturmak ve Ege konseptini her ayrıntıya işlemek için çok yönlü bir çalışma yürüttük. Süreç, mekanın potansiyelini en iyi şekilde ortaya koyan 3D tasarımların hazırlanmasıyla başladı. Ardından, seçilen tasarım doğrultusunda duvar renklerinden mobilyalara, aydınlatma elemanlarından aksesuarlara kadar tüm mekan dekorasyonu uygulamaları gerçekleştirildi. Tüm bu imalat ve uygulama süreçleri, projenin zamanında ve kusursuz bir şekilde ilerlemesi için ekibimiz tarafından titiz bir şantiye takibi ile yönetildi.
 
-Introducing our latest creation: the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to a user-friendly interface.
+### İşin tamamlanması
 
-Introducing our latest creation: the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
-
-![Project images](/images/project-details/project-details-button.png)
-
-Designing the User Experience (UX) is a meticulous process that involves understanding user needs, preferences, and behaviors to create intuitive and seamless interactions. Through thoughtful research and analysis, we strive to craft interfaces
-
-that not only meet user expectations but exceed them. In this section, we delve into our approach to UX design, exploring methodologies, techniques, and best practices employed to create engaging and user-centric experiences
-
-### Building the information architecture
-
-Information architecture (IA) is the structural design of digital information environments, such as websites and applications, to facilitate intuitive navigation and efficient access to content. It involves organizing and categorizing information in a logical and hierarchical manner, ensuring that users can easily find what they're looking for. Information architecture considers factors such as user goals, business objectives, and content relationships to create a cohesive and user-friendly
-
-structure. Through techniques like card sorting and site mapping, IA aims to create a clear and intuitive navigation system that guides users through the interface seamlessly. Effective information architecture lays the foundation for a positive user experience, helping users navigate complex information landscapes with ease and confidence.
-
-![Project images](/images/services/business-big.png)
-
-Through techniques like card sorting and site mapping, IA aims to create a clear and intuitive navigation system that guides users through the interface seamlessly. Effective information architecture lays the foundation for a positive user experience, helping users navigate complex information landscapes with ease and confidence.
+Projenin başından sonuna kadar müşteri ve ekibimiz arasında sağlanan tam iş birliği, başarımızın temelini oluşturdu. 45 gün gibi kısa bir sürede, 3D tasarımdan şantiye yönetimine uzanan tüm aşamaları eksiksiz bir şekilde tamamladık. Sonuç olarak, Ege Cunda Balık için sadece bir restoran değil, misafirlerine her ziyaretlerinde eşsiz bir Ege deneyimi yaşatacak, estetik ve fonksiyonel bir mekan yarattık.
