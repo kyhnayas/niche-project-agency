@@ -31,7 +31,7 @@ const menuItems: MenuItemProps[] = [
   },
   {
     title: 'Projeler',
-    url: '/portfolio-agency/case-study', 
+    url: '/portfolio-agency/case-study',
   },
 ]
 
@@ -176,9 +176,8 @@ export const MenuList = forwardRef<HTMLUListElement, MenuListProps>((props, ref)
               onClick={() => {
                 onItemClick && onItemClick() // Menüyü kapatma gibi ek işlemler
               }}
-              className={`menu-list-item-text text-[28px] leading-[70px] text-white md:text-[42px] xl:text-[56px] xl:leading-[90px] ${
-                isLinkActive(item.url) ? 'active' : ''
-              }`}>
+              className={`menu-list-item-text text-[28px] leading-[70px] text-white md:text-[42px] xl:text-[56px] xl:leading-[90px] ${isLinkActive(item.url) ? 'active' : ''
+                }`}>
               {item.title}
             </Link>
           )}
@@ -196,9 +195,8 @@ export const MenuList = forwardRef<HTMLUListElement, MenuListProps>((props, ref)
                     onClick={() => {
                       onItemClick && onItemClick()
                     }}
-                    className={`menu-list-item-dropdown-list inline-block pb-1 pl-3 text-base leading-8 text-white md:text-lg md:leading-[50px] ${
-                      isLinkActive(subItem.url) ? 'active' : ''
-                    }`}>
+                    className={`menu-list-item-dropdown-list inline-block pb-1 pl-3 text-base leading-8 text-white md:text-lg md:leading-[50px] ${isLinkActive(subItem.url) ? 'active' : ''
+                      }`}>
                     {subItem.title.includes('-') ? (
                       <>
                         {subItem.title.split('-')[0]}-
