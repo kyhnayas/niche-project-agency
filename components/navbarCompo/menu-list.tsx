@@ -31,8 +31,7 @@ const menuItems: MenuItemProps[] = [
   },
   {
     title: 'Projeler',
-    url: '/portfolio-agency/case-study',
-    
+    url: '/portfolio-agency/case-study', 
   },
 ]
 
