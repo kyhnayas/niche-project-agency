@@ -10,7 +10,7 @@ export interface ProjectType {
   [key: string]: any
 }
 
-const projects: ProjectType[] = getMarkDownData('data/Portfolio-agency/case-studies')
+const projects: ProjectType[] = getMarkDownData('data/portfolio-agency/case-studies')
 
 const OurProject = () => {
   return (
