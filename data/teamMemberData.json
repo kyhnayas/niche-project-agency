@@ -1,0 +1,27 @@
+[
+  {
+    "id": "Berat",
+    "name": "Berat Sanbay",
+    "role": "Ortak",
+    "image": "/images/home-ai/team/ai-team-4.png",
+    "bio": "Mojo Organizasyonun kurucusu  ve CEO'su. Halkla ilişkiler ve organizasyon yönetimi konularında uzman. Satış ve pazarlama stratejileri geliştirme konusunda deneyimli.",
+    "socialLinks": {
+      "twitter": "https://x.com/home",
+      "facebook": "https://www.facebook.com/staticmania",
+      "youtube": "https://youtu.be/ceJ82RaW9mM"
+    }
+  },
+  {
+    "id": "kayhan",
+    "name": "Kayhan Ayas",
+    "role": "Ortak",
+    "image": "/images/home-ai/team/ai-team-2.png",
+    "bio": "20 yıllık tasarım ve 3d modelleme deneyimine sahip, kullanıcı odaklı tasarım ve etkileşimli deneyimler yaratmaya tutkulu bir tasarımcı ve art director.",
+    "socialLinks": {
+      "twitter": "https://x.com/home",
+      "facebook": "https://www.facebook.com/staticmania",
+      "youtube": "https://youtu.be/ceJ82RaW9mM"
+    }
+  }
+  
+]

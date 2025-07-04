@@ -1,0 +1,438 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "dynamicRoutes": [
+    {
+      "page": "/agency-projects/[slug]",
+      "regex": "^/agency\\-projects/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/agency\\-projects/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/ai-blog/[slug]",
+      "regex": "^/ai\\-blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/ai\\-blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/business-solutions/blog/[slug]",
+      "regex": "^/business\\-solutions/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/business\\-solutions/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/business-solutions/services/[slug]",
+      "regex": "^/business\\-solutions/services/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/business\\-solutions/services/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/career/[slug]",
+      "regex": "^/career/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/career/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/communication-agency/blog/[slug]",
+      "regex": "^/communication\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/communication\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/copy-write-agency/[slug]",
+      "regex": "^/copy\\-write\\-agency/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/copy\\-write\\-agency/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/creative-agency/blog/[slug]",
+      "regex": "^/creative\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/creative\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/creative-agency/services/[slug]",
+      "regex": "^/creative\\-agency/services/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/creative\\-agency/services/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/design-agency/[slug]",
+      "regex": "^/design\\-agency/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/design\\-agency/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/digital-agency/blog/[slug]",
+      "regex": "^/digital\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/digital\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/digital-agency/project/[slug]",
+      "regex": "^/digital\\-agency/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/digital\\-agency/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/insurance-agency/blog/[slug]",
+      "regex": "^/insurance\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/insurance\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/insurance-agency/project/[slug]",
+      "regex": "^/insurance\\-agency/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/insurance\\-agency/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/law-firm-agency/project/[slug]",
+      "regex": "^/law\\-firm\\-agency/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/law\\-firm\\-agency/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/management-consulting/project/[slug]",
+      "regex": "^/management\\-consulting/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/management\\-consulting/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/marketing/blog/[slug]",
+      "regex": "^/marketing/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/marketing/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/marketing/project/[slug]",
+      "regex": "^/marketing/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/marketing/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/marketing/services/[slug]",
+      "regex": "^/marketing/services/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/marketing/services/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/personal-projects/[slug]",
+      "regex": "^/personal\\-projects/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/personal\\-projects/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/photography-studio/services/[slug]",
+      "regex": "^/photography\\-studio/services/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/photography\\-studio/services/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/photography-studio/work/[slug]",
+      "regex": "^/photography\\-studio/work/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/photography\\-studio/work/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/portfolio-agency/blog/[slug]",
+      "regex": "^/portfolio\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/portfolio\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/portfolio-agency/case-study/[slug]",
+      "regex": "^/portfolio\\-agency/case\\-study/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/portfolio\\-agency/case\\-study/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/seo-blog/[slug]",
+      "regex": "^/seo\\-blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/seo\\-blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/service-agency/blog/[slug]",
+      "regex": "^/service\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/service\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/service-agency/project/[slug]",
+      "regex": "^/service\\-agency/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/service\\-agency/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/services/[slug]",
+      "regex": "^/services/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/services/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/social-media-marketing/blog/[slug]",
+      "regex": "^/social\\-media\\-marketing/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/social\\-media\\-marketing/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/social-media-marketing/project/[slug]",
+      "regex": "^/social\\-media\\-marketing/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/social\\-media\\-marketing/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/startup-agency/blog/[slug]",
+      "regex": "^/startup\\-agency/blog/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/startup\\-agency/blog/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/startup-agency/project/[slug]",
+      "regex": "^/startup\\-agency/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/startup\\-agency/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/strategic-branding/[slug]",
+      "regex": "^/strategic\\-branding/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/strategic\\-branding/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/team/[id]",
+      "regex": "^/team/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/team/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/video-photography/project/[slug]",
+      "regex": "^/video\\-photography/project/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/video\\-photography/project/(?<nxtPslug>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/about",
+      "regex": "^/about(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about(?:/)?$"
+    },
+    {
+      "page": "/about-02",
+      "regex": "^/about\\-02(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about\\-02(?:/)?$"
+    },
+    {
+      "page": "/ai-blog",
+      "regex": "^/ai\\-blog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/ai\\-blog(?:/)?$"
+    },
+    {
+      "page": "/career",
+      "regex": "^/career(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/career(?:/)?$"
+    },
+    {
+      "page": "/career-02",
+      "regex": "^/career\\-02(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/career\\-02(?:/)?$"
+    },
+    {
+      "page": "/changelog",
+      "regex": "^/changelog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/changelog(?:/)?$"
+    },
+    {
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/design-agency",
+      "regex": "^/design\\-agency(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/design\\-agency(?:/)?$"
+    },
+    {
+      "page": "/digital-agency/project",
+      "regex": "^/digital\\-agency/project(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/digital\\-agency/project(?:/)?$"
+    },
+    {
+      "page": "/faq",
+      "regex": "^/faq(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/faq(?:/)?$"
+    },
+    {
+      "page": "/iletisim",
+      "regex": "^/iletisim(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/iletisim(?:/)?$"
+    },
+    {
+      "page": "/password",
+      "regex": "^/password(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/password(?:/)?$"
+    },
+    {
+      "page": "/policy",
+      "regex": "^/policy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/policy(?:/)?$"
+    },
+    {
+      "page": "/portfolio-agency/case-study",
+      "regex": "^/portfolio\\-agency/case\\-study(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/portfolio\\-agency/case\\-study(?:/)?$"
+    },
+    {
+      "page": "/seo-blog",
+      "regex": "^/seo\\-blog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/seo\\-blog(?:/)?$"
+    },
+    {
+      "page": "/services",
+      "regex": "^/services(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/services(?:/)?$"
+    },
+    {
+      "page": "/team",
+      "regex": "^/team(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/team(?:/)?$"
+    },
+    {
+      "page": "/terms",
+      "regex": "^/terms(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/terms(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  },
+  "rewrites": []
+}

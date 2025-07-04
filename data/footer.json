@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Hızlı Erişim",
+    "links": [     
+      { "href": "/", "label": "Ana Sayfa" },
+      { "href": "/portfolio-agency/case-study", "label": "Projelerimiz" },
+      { "href": "/services", "label": "Hizmetler" }
+    ]
+  },
+  {
+    "title": "Kurumsal",
+    "links": [
+      { "href": "/about-02", "label": "Hakkımızda" },
+      { "href": "/faq", "label": "SSS" },
+      { "href": "/terms", "label": "Hizmet Şartları" },
+      { "href": "/policy", "label": "Gizlilik Politikası" }
+     ]
+  },
+  {
+    "title": "Önemli Linkler",
+    "links": [
+      
+      { "href": "/team", "label": "Takım" },
+      { "href": "/contact", "label": "İletişim" }
+    ]
+  }
+]

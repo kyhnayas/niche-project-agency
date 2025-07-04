@@ -1,0 +1,26 @@
+[
+  {
+    "id": "berat-sanbay",
+    "image": "/images/home-ai/team/ai-team-1.png",
+    "title": "Berat Sanbay",
+    "position": "Ortak",
+    "description": "Mojo Organizasyonun kurucusu  ve CEO'su. Halkla ilişkiler ve organizasyon yönetimi konularında uzman. Satış ve pazarlama stratejileri geliştirme konusunda deneyimli.",
+    "skills": ["UI/UX Designer", "Product Designer", "Design System Architect"],
+    "tags": ["Dribbble", "Behance", "Adobe"],
+    "fbLink": "#",
+    "twitterLink": "#",
+    "youtubeLink": "#"
+  },
+  {
+    "id": "n-kayhan-ayas",
+    "image": "/images/home-ai/team/n-kayhan-ayas.png",
+    "title": "N. Kayhan Ayas",
+    "position": "Ortak",
+    "description": "I'm a visionary entrepreneur, crafting innovative tech solutions. StaticMania and KEEP Design System are my other breakthrough moves, focusing on scalable design solutions.",
+    "skills": ["Frontend Developer", "React Specialist", "System Designer"],
+    "tags": ["instagram", "Behance", "Dribbble"],
+    "fbLink": "#",
+    "twitterLink": "#",
+    "youtubeLink": "#"
+  }
+]
