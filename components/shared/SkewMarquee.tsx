@@ -68,7 +68,7 @@ const SkewMarquee = () => {
   )
 
   return (
-    <section className="relative w-full pb-16 pt-24 lg:pb-48">
+    <section className="relative w-full overflow-hidden pb-16 pt-24 lg:pb-48">
       <div
         ref={containerRef}
         style={{

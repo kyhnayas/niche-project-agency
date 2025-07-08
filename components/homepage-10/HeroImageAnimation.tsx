@@ -33,7 +33,7 @@ const HeroImageAnimation = () => {
   }, [])
   return (
     <figure className="hero-img-container" ref={imgRef}>
-      <Image src={hero} alt="hero-img" className="mx-auto min-h-fit w-[98%]" priority />
+      <Image src={hero} alt="hero-img" className="m-0 block h-auto w-full p-0" priority />
     </figure>
   )
 }
