@@ -16,6 +16,9 @@ interface TeamDataType {
   description: string
   skills: string[]
   tags: string[]
+  twitterLink?: string // Soru işareti (?) bu alanı opsiyonel yapar
+  fbLink?: string // Yani bu özellik veride olmasa da kod hata vermez
+  youtubeLink?: string // Tipi: string veya undefined
 }
 
 const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => {
@@ -63,35 +66,44 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
 
             <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">İletişim</h3>
             <ul className="flex gap-x-5 gap-y-5 md:gap-x-10 md:self-end">
-              <li>
-                <Link
-                  target="_blank"
-                  href="{teamData.twitterLink}"
-                  className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
-                  <Image src={twitter} alt="Twitter" className="inline dark:hidden" />
-                  <Image src={twitterDark} alt="Twitter" className="hidden dark:inline" />
-                </Link>
-              </li>
+              {/* Sadece twitterLink varsa bu list item'ı oluştur */}
+              {teamData.twitterLink && (
+                <li>
+                  <Link
+                    target="_blank"
+                    href={teamData.twitterLink}
+                    className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
+                    <Image src={twitter} alt="Twitter" className="inline dark:hidden" />
+                    <Image src={twitterDark} alt="Twitter" className="hidden dark:inline" />
+                  </Link>
+                </li>
+              )}
 
-              <li>
-                <Link
-                  target="_blank"
-                  href="{teamData.fbLink}"
-                  className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
-                  <Image src={facebook} alt="Facebook" className="inline dark:hidden" />
-                  <Image src={facebookDark} alt="Facebook" className="hidden dark:inline" />
-                </Link>
-              </li>
+              {/* Sadece fbLink varsa bu list item'ı oluştur */}
+              {teamData.fbLink && (
+                <li>
+                  <Link
+                    target="_blank"
+                    href={teamData.fbLink}
+                    className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
+                    <Image src={facebook} alt="Facebook" className="inline dark:hidden" />
+                    <Image src={facebookDark} alt="Facebook" className="hidden dark:inline" />
+                  </Link>
+                </li>
+              )}
 
-              <li>
-                <Link
-                  target="_blank"
-                  href="{teamData.youtubeLink}"
-                  className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
-                  <Image src={youtube} alt="YouTube" className="inline dark:hidden" />
-                  <Image src={youtubeDark} alt="YouTube" className="hidden dark:inline" />
-                </Link>
-              </li>
+              {/* Sadece youtubeLink varsa bu list item'ı oluştur */}
+              {teamData.youtubeLink && (
+                <li>
+                  <Link
+                    target="_blank"
+                    href={teamData.youtubeLink}
+                    className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
+                    <Image src={youtube} alt="YouTube" className="inline dark:hidden" />
+                    <Image src={youtubeDark} alt="YouTube" className="hidden dark:inline" />
+                  </Link>
+                </li>
+              )}
             </ul>
           </div>
         </RevealWrapper>
