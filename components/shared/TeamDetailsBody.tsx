@@ -66,7 +66,7 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
               <li>
                 <Link
                   target="_blank"
-                  href={teamData.twitterLink}
+                  href="{teamData.twitterLink}"
                   className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
                   <Image src={twitter} alt="Twitter" className="inline dark:hidden" />
                   <Image src={twitterDark} alt="Twitter" className="hidden dark:inline" />
@@ -76,7 +76,7 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
               <li>
                 <Link
                   target="_blank"
-                  href={teamData.fbLink}
+                  href="{teamData.fbLink}"
                   className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
                   <Image src={facebook} alt="Facebook" className="inline dark:hidden" />
                   <Image src={facebookDark} alt="Facebook" className="hidden dark:inline" />
@@ -86,7 +86,7 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
               <li>
                 <Link
                   target="_blank"
-                  href={teamData.youtubeLink}
+                  href="{teamData.youtubeLink}"
                   className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
                   <Image src={youtube} alt="YouTube" className="inline dark:hidden" />
                   <Image src={youtubeDark} alt="YouTube" className="hidden dark:inline" />
