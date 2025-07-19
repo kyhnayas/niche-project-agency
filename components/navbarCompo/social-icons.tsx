@@ -4,7 +4,7 @@ export function SocialIcons() {
   return (
     <div className="flex gap-6">
       <span>
-        <Link href="https://www.facebook.com/staticmania">
+        <Link href="https://www.facebook.com/kyhnayas">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="23"

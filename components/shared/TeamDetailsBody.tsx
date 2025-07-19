@@ -43,16 +43,16 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
 
             <p className="border-t py-4 dark:border-dark md:py-10">{teamData.description}</p>
 
-            <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">Skill</h3>
+            <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">Yetenekler</h3>
             <ul className="mb-5 md:mb-10">
               {teamData.skills.map((skill: string) => (
-                <li className="mr-2 inline-block text-colorText" key={skill}>
+                <li className="rv-badge inline-block" key={skill}>
                   {skill},
                 </li>
               ))}
             </ul>
 
-            <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">Portfolio</h3>
+            <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">Portfolyo</h3>
             <ul className="mb-10 space-x-1 space-y-2">
               {teamData.tags.map((tag: string) => (
                 <li className="rv-badge inline-block" key={tag}>
@@ -61,12 +61,12 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
               ))}
             </ul>
 
-            <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">Contact</h3>
+            <h3 className="mb-3.5 text-2xl md:mb-5 md:text-4xl md:leading-[1.2] md:tracking-[-1.08px]">İletişim</h3>
             <ul className="flex gap-x-5 gap-y-5 md:gap-x-10 md:self-end">
               <li>
                 <Link
                   target="_blank"
-                  href="https://x.com/home"
+                  href={teamData.twitterLink}
                   className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
                   <Image src={twitter} alt="Twitter" className="inline dark:hidden" />
                   <Image src={twitterDark} alt="Twitter" className="hidden dark:inline" />
@@ -76,7 +76,7 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
               <li>
                 <Link
                   target="_blank"
-                  href="https://www.facebook.com/staticmania"
+                  href={teamData.fbLink}
                   className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
                   <Image src={facebook} alt="Facebook" className="inline dark:hidden" />
                   <Image src={facebookDark} alt="Facebook" className="hidden dark:inline" />
@@ -86,7 +86,7 @@ const TeamDetailsBody: React.FC<{ teamData: TeamDataType }> = ({ teamData }) => 
               <li>
                 <Link
                   target="_blank"
-                  href="https://youtu.be/ceJ82RaW9mM?si=t9f7MrHVZSmeR8Gl"
+                  href={teamData.youtubeLink}
                   className="transition-transform duration-300 ease-in-out hover:-translate-y-2">
                   <Image src={youtube} alt="YouTube" className="inline dark:hidden" />
                   <Image src={youtubeDark} alt="YouTube" className="hidden dark:inline" />
