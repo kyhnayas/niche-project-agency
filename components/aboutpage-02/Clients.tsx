@@ -74,8 +74,8 @@ const Clients = () => {
       <div className="container">
         <div className="mb-10 flex flex-col items-start justify-center gap-x-10 gap-y-3 md:mb-20 md:flex-row md:items-end md:justify-between">
           <SectionHeader
-            headingTitle="Bize güvenen"
-            italicTitle="Müşterilerimiz"
+            headingTitle="Müşterilerimiz"
+            italicTitle="Bize güvenen"
             serviceHeadingColor
             description="Ajansımız, estetik duyarlılığınıza hitap eden sıra dışı sanat eserlerini keşfetmenize açılan kapınızdır."
           />

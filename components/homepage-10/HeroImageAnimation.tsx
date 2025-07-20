@@ -1,6 +1,6 @@
 'use client'
 
-import hero from '@/public/images/hero-img/hero-v10.png'
+import hero from '@/public/images/hero-img/niche-header.png'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import Image from 'next/image'

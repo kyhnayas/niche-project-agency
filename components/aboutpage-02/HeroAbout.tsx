@@ -12,15 +12,15 @@ const HeroAbout = ({ spacingTop }: PropsTypes) => {
   return spacingTop ? (
     <RevealWrapper className={`${spacingTop} container`}>
       <h3 ref={revealRef} className="reveal-text-2 text-secondary dark:text-backgroundBody">
-        Niche Project Agency olarak, markanızın dijital evrimini derinlemesine strateji, yenilikçi tasarım ve ileri
-        teknolojiyle şekillendiriyoruz.
+        Biz Niche Project Agency olarak, markanızın en derin potansiyelini keşfederiz. Dijital evrenin her köşesinde
+        yankı bulacak, sizi geleceğe taşıyacak bütüncül bir yolculukla, hayallerinizdeki gücü gerçeğe dönüştürürüz.
       </h3>
     </RevealWrapper>
   ) : (
     <RevealWrapper as="section" className="container">
       <h3 ref={revealRef}>
-        Niche Project Agency olarak, markanızın dijital evrimini derinlemesine strateji, yenilikçi tasarım ve ileri
-        teknolojiyle şekillendiriyoruz.
+        Biz Niche Project Agency olarak, markanızın en derin potansiyelini keşfederiz. Dijital evrenin her köşesinde
+        yankı bulacak, sizi geleceğe taşıyacak bütüncül bir yolculukla, hayallerinizdeki gücü gerçeğe dönüştürürüz.
       </h3>
     </RevealWrapper>
   )

@@ -8,8 +8,8 @@ const HeroV10 = () => {
         <HeroImageAnimation />
         <div className="container">
           <h1 className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-center font-medium text-backgroundBody max-sm:py-4 md:font-semibold">
-            Vizyonu Gerçeğe <br />
-            Dönüştürmek
+            Korkuyu Bırakın, <br />
+            Potansiyelinizi Hissedin!
           </h1>
         </div>
       </RevealWrapper>

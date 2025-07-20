@@ -14,7 +14,7 @@ interface MenuItemProps {
 
 const menuItems: MenuItemProps[] = [
   {
-    title: 'iletişim',
+    title: 'İletişim',
     url: '/iletisim',
   },
   {
