@@ -7,6 +7,9 @@ import PageHero from '@/components/shared/PageHero'
 
 export const metadata = {
   title: 'Hizmetlerimiz ',
+  description: 'Niche Project Agency - Full Hizmet Reklam ve Tasarım Ajansı',
+  keywords:
+    'Niche Project Agency, Reklam Ajansı, Tasarım Ajansı, Dijital Pazarlama, Web Tasarım, Sosyal Medya Yönetimi, Sakarya Reklam Ajansı, Marka Stratejisi, SEO, İçerik Pazarlama, Grafik Tasarım, Video Prodüksiyon',
 }
 
 const ServicesPage = () => {
