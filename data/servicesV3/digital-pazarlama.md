@@ -2,8 +2,8 @@
 title: 'Dijital Pazarlama & Reklam Yönetimi'
 description: 'Dijital dünyada markanızın görünürlüğünü, etkileşimini ve dönüşümünü artırmak için kapsamlı dijital pazarlama ve reklam stratejileri sunuyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/digital-pazarlama.svg'
+logoDark: '/images/icons/services-icon/digital-pazarlama-dark.svg'
 badgeTitle: 'Dijital Pazarlama & Reklam Yönetimi'
 ---
 

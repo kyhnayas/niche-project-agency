@@ -2,8 +2,8 @@
 title: 'Görsel ve Kreatif Tasarım'
 description: 'Markanızın görsel dilini oluşturarak, dijital ve basılı tüm platformlarda akılda kalıcı, estetik ve etkili tasarımlar sunuyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/gorsel-creative.svg'
+logoDark: '/images/icons/services-icon/gorsel-creative-dark.svg'
 badgeTitle: 'Görsel ve Kreatif Tasarım'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Marka & Kişisel İtibar Yönetimi'
 description: 'Hem kurumsal hem de kişisel markanızın itibarını stratejik olarak yöneterek, kamuoyu algınızı güçlendiriyor ve kriz anlarında koruma sağlıyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/marka-itibar.svg'
+logoDark: '/images/icons/services-icon/marka-itibar-dark.svg'
 badgeTitle: 'Marka & Kişisel İtibar Yönetimi'
 ---
 

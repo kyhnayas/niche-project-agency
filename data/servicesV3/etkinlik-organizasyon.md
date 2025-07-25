@@ -2,8 +2,8 @@
 title: 'Etkinlik & Organizasyon Yönetimi'
 description: 'Markanızın hedefleriyle uyumlu, unutulmaz ve etkili etkinlikler planlayıp yöneterek, hedef kitlenizle doğrudan ve güçlü bağlar kurmanızı sağlıyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/etkinlik-org.svg'
+logoDark: '/images/icons/services-icon/etkinlik-org-dark.svg'
 badgeTitle: 'Etkinlik & Organizasyon Yönetimi'
 ---
 

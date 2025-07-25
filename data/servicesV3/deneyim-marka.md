@@ -1,9 +1,9 @@
 ---
 title: 'Deneyim Tasarımı & Marka Aktivasyonu'
-description: 'Markanızla hedef kitleniz arasında duyusal ve interaktif bağlar kurarak, unutulmaz deneyimler ve güçlü marka aktivasyonları yaratıyoruz.' 
+description: 'Markanızla hedef kitleniz arasında duyusal ve interaktif bağlar kurarak, unutulmaz deneyimler ve güçlü marka aktivasyonları yaratıyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/Deneyim-Tas.svg'
+logoDark: '/images/icons/services-icon/Deneyim-Tas-dark.svg'
 badgeTitle: 'Deneyim Tasarımı & Marka Aktivasyonu'
 ---
 
@@ -13,7 +13,7 @@ Niche Project Agency olarak, markanızın sadece bir ürün veya hizmet olmaktan
 
 ### Hizmetimiz şunları içerir
 
-- • **Pop-up Store ve Deneyim Alanı Tasarımı**:  Markanızın geçici olarak fiziksel bir alanda hedef kitlesiyle buluşmasını sağlayan, yaratıcı ve etkileşimli pop-up mağazalar ve deneyim alanları tasarlıyoruz.
+- • **Pop-up Store ve Deneyim Alanı Tasarımı**: Markanızın geçici olarak fiziksel bir alanda hedef kitlesiyle buluşmasını sağlayan, yaratıcı ve etkileşimli pop-up mağazalar ve deneyim alanları tasarlıyoruz.
 - • **Fuar Standı ve İnteraktif Alan Planlaması**: Fuarlarda markanızın öne çıkmasını sağlayacak, ziyaretçilerin ilgisini çeken ve etkileşim kurmalarını teşvik eden yenilikçi stantlar ve interaktif alanlar tasarlıyoruz.
 - • **Influencer & VIP Deneyim Programları**: Influencer'lar ve VIP konuklar için markanızın ürünlerini veya hizmetlerini özel bir şekilde deneyimleyebilecekleri, paylaşıma değer programlar ve etkinlikler düzenliyoruz.
 - • **Özel Markalara Yönelik Mikro Etkinlikler**: Belirli bir hedef kitleye veya niş bir pazara odaklanan, butik ve kişiselleştirilmiş mikro etkinliklerle markanızın derinlemesine etkileşim kurmasını sağlıyoruz.

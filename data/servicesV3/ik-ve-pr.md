@@ -2,8 +2,8 @@
 title: 'İK & PR Yönetimi'
 description: 'Markanızın kamuoyu nezdindeki itibarını güçlendirmek ve hedef kitlenizle pozitif ilişkiler kurmak için stratejik İK ve PR çözümleri sunuyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/ik-pr.svg'
+logoDark: '/images/icons/services-icon/ik-pr-dark.svg'
 badgeTitle: 'İK & PR Yönetimi'
 ---
 

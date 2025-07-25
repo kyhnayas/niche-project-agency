@@ -2,8 +2,8 @@
 title: 'Web & Dijital Çözümler'
 description: 'Markanızın dijital varlığını güçlendiren, modern ve işlevsel web siteleri ile interaktif dijital çözümler sunarak çevrimiçi başarınızı sağlıyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/web-digital.svg'
+logoDark: '/images/icons/services-icon/web-digital-dark.svg'
 badgeTitle: 'Web & Dijital Çözümler'
 ---
 

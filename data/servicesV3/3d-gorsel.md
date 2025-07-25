@@ -2,8 +2,8 @@
 title: '3D & Görsel İçerik Üretimi'
 description: 'Markanız için gerçeküstü ve etkileyici görsel deneyimler sunarak ürünlerinizi, projelerinizi ve hikayelerinizi 3D teknolojileriyle hayata geçiriyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/3d.svg'
+logoDark: '/images/icons/services-icon/3d-dark.svg'
 badgeTitle: '3D & Görsel İçerik Üretimi'
 ---
 
@@ -18,7 +18,6 @@ Niche Project Agency olarak, markanızın görsel iletişimini bir üst seviyeye
 - • **Mimari Render Hizmetleri**: İnşaat ve gayrimenkul sektöründeki projeleriniz için profesyonel ve yüksek kaliteli mimari renderlar üretiyoruz.
 - • **Reklam ve Tanıtım Animasyonları**: Markanızın hikayesini anlatan, ürünlerinizi tanıtan veya hizmetlerinizi açıklayan dinamik ve ilgi çekici 3D animasyonlar hazırlıyoruz.
 - • **AR & VR İçerik Üretimi**: Artırılmış Gerçeklik (AR) ve Sanal Gerçeklik (VR) teknolojilerini kullanarak, hedef kitlenize benzersiz ve interaktif deneyimler sunuyoruz.
-
 
 ### Neden Bizi Seçmelisiniz
 

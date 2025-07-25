@@ -2,8 +2,8 @@
 title: 'Video Prodüksiyon & Animasyon'
 description: 'Markanızın hikayesini dinamik videolar ve etkileyici animasyonlarla anlatarak, hedef kitlenizle güçlü bir görsel ve duygusal bağ kuruyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/video-produksion.svg'
+logoDark: '/images/icons/services-icon/video-produksion-dark.svg'
 badgeTitle: 'Video Prodüksiyon & Animasyon'
 ---
 
@@ -18,7 +18,6 @@ Niche Project Agency olarak, markanızın mesajını en etkili ve akılda kalıc
 - • **YouTube & TikTok Video Prodüksiyonu**: Sosyal medya platformlarının dinamiklerine uygun, kısa, etkileşimli ve trendlere ayak uyduran video içerikleri hazırlıyoruz.
 - • **Hareketli Grafik & Intro Tasarımları**: Videolarınıza profesyonel bir dokunuş katan, markanızın kimliğini yansıtan hareketli grafikler, intro ve outro tasarımları oluşturuyoruz.
 - • **Video Montaj ve Post-Prodüksiyon**: Ham görüntülerinizi kurgu, renk düzenleme, ses tasarımı ve görsel efektlerle birleştirerek kusursuz birer hikayeye dönüştürüyoruz.
-
 
 ### Neden Bizi Seçmelisiniz
 

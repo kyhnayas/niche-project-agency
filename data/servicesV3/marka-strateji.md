@@ -2,8 +2,8 @@
 title: 'Marka Stratejisi & Danışmanlık'
 description: 'Markanızın pazardaki benzersiz konumunu belirleyerek, hedef kitlenizle güçlü bir bağ kurmasını sağlayacak temel stratejileri ve kimliği inşa ediyoruz.'
 coverImage: '/images/services/services-details2-img.png'
-logo: '/images/icons/services-icon/service-icon-6.svg'
-logoDark: '/images/icons/services-icon/service-icon-dark-6.svg'
+logo: '/images/icons/services-icon/marka-danismanlik.svg'
+logoDark: '/images/icons/services-icon/marka-danismanlik-dark.svg'
 badgeTitle: 'Marka Stratejisi & Danışmanlık'
 ---
 
