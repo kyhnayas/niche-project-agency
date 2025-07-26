@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nicheprojectagency.com
+
+# Sitemaps
+Sitemap: https://nicheprojectagency.com/sitemap.xml
