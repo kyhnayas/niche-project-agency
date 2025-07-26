@@ -6,6 +6,7 @@ import { ThemeModeProvider } from '@/utils/Providers'
 import type { Metadata } from 'next'
 import { ReactNode, Suspense } from 'react'
 import '../scss/main.scss'
+import { Analytics } from '@vercel/analytics/next'
 
 export const metadata: Metadata = {
   title: 'Niche Project Agency',
@@ -25,6 +26,7 @@ export default function RootLayout({
               <ThemeSwitcher />
               <CursorPointer />
               {children}
+              <Analytics />
             </ThemeModeProvider>
           </SmoothScrollProvider>
         </Suspense>
